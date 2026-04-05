@@ -110,7 +110,7 @@ EXPO_PUBLIC_CLERK_PUBLISHABLE_KEY=
 ### 1. Clone Repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/native-wallet.git
+https://github.com/mrudul-gauba/Native-Wallet.git
 cd native-wallet
 ```
 
